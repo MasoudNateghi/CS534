@@ -1,9 +1,1 @@
-# Emory CS534 
-
-
-
-
-Collaborators of the project: 
-
-  * Navid Azimi
-  * Masoud Nateghi
+# Emory CS534 Files
