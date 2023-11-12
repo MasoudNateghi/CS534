@@ -1,5 +1,9 @@
-# CS534
-Emory CS534 (ML) homework and project
+# Emory CS534 
+
+
+
+
 Collaborators of the project: 
-  . Navid Azimi
-  . Masoud Nateghi
+
+  * Navid Azimi
+  * Masoud Nateghi
