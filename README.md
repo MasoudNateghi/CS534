@@ -1,2 +1,2 @@
 # CS534
-Emory CS534 (ML) homework
+Emory CS534 (ML) homework and project
